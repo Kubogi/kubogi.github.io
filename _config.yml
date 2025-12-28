@@ -1,6 +1,12 @@
 title: Hai's Blog
-description: My experiences with coding
+description: I do code sometimes
 author: Hai Hoang
 theme: minima
+
+minima:
+  skin: auto
+
+url: https://kubogi.github.io
+baseurl: ""
 
 markdown: kramdown
