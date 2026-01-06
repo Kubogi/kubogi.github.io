@@ -6,6 +6,9 @@ theme: minima
 minima:
   skin: auto
 
+plugins:
+  - jekyll-seo-tag
+
 url: https://kubogi.github.io
 baseurl: ""
 
